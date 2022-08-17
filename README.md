@@ -1,6 +1,6 @@
 # Today's Tasks[^1]
 
-F[^1]: [TODO STACK](index.md)
+[^1]: [TODO STACK](index.md)
 
 - [x] Create this repository
 - [ ] Solve Ligical Question which is told by friend
