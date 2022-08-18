@@ -1,10 +1,6 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-y&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah-y&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah-y&layout=compact&show_icons=true&langs_count=8" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ah-y&count_private=true&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah-y&layout=compact&show_icons=true&langs_count=8" />
 </p>
 
 **ah-y/ah-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
