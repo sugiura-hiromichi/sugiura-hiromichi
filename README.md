@@ -2,10 +2,10 @@
 
 - [x] Create this repository
 - [ ] Solve Ligical Question which is told by friend
-- [ ] Rearrange this readme's ui, especially modifying card's size to line up horizontally
+- [x] Rearrange this readme's ui, especially modifying card's size to line up horizontally
 - [x] Create profile.md & separate README.md into README.md & profile.md
 - [x] Do Landry
-- [ ] Set command p to toggle pin tab
+- [x] Set command p to toggle pin tab
 - [ ] Typing
 - [x] Return book to library
 - [ ] Search next season scholarship
@@ -18,3 +18,4 @@
 - Reach 70 wpm stable typing performance on monkeytype
 - Debug br_eng
 - Setup debug environment(dap-nvim)
+- Verify check sheets <https://www.kyoto-u.ac.jp/ja/education-campus/tuition/jumen>
