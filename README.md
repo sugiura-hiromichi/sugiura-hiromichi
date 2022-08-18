@@ -21,3 +21,4 @@
 - Verify check sheets <https://www.kyoto-u.ac.jp/ja/education-campus/tuition/jumen>
 - Ask next season scholarship
 - README.md arrangement <https://zenn.dev/a_ichi1/articles/64f353e23408b9>
+- Make command which switch audio source of mac system
