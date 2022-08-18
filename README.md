@@ -1,6 +1,4 @@
-# Today's Tasks[^1]
-
-[^1]: [TODO STACK](index.md)
+# Today's Tasks
 
 - [x] Create this repository
 - [ ] Solve Ligical Question which is told by friend
@@ -12,3 +10,11 @@
 - [x] Return book to library
 - [ ] Search next season scholarship
 
+---
+
+## Todo Stacks
+
+- Make template.md for this repository
+- Reach 70 wpm stable typing performance on monkeytype
+- Debug br_eng
+- Setup debug environment(dap-nvim)
