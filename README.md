@@ -6,8 +6,9 @@
 - [ ] Setup debug environment(dap-nvim)
 - [ ] Verify check sheets <https://www.kyoto-u.ac.jp/ja/education-campus/tuition/jumen>
 - [ ] Ask next season scholarship
-- [ ] README.md arrangement <https://zenn.dev/a_ichi1/articles/64f353e23408b9>
+- [ ] Search & understand & make example of GitHub Actions
 - [ ] Search terminal vi mode
+- [ ] Tweet Enthusiasm of Rust
 
 ---
 
@@ -15,6 +16,7 @@
 
 > Bold is Weekly Todo,
 
+- [ ] README.md arrangement <https://zenn.dev/a_ichi1/articles/64f353e23408b9>
 - [ ] Make template.md for this repository's diary
 - [ ] **Reach 70 wpm stable typing performance on monkeytype**
 - [ ] Debug br_eng
