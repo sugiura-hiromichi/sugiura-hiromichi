@@ -1,12 +1,9 @@
-# My Personal Notions
-
 as a memo page
+---
 
 ## Tissue material
 
 Is there any alternatives to the paper as material of tissue?
-
----
 
 ## Liberal arts Category
 
@@ -17,8 +14,6 @@ Is there any alternatives to the paper as material of tissue?
 |Interact(with)|Discussion|Talk|Co Creation|
 
 ...and Cross Academy Genre
-
----
 
 ## Color frexible material
 
