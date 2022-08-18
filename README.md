@@ -9,6 +9,8 @@
 - [ ] Typing
 - [x] Return book to library
 - [x] Search next season scholarship
+- [ ] Clean up My room
+- [ ] Tune up My bicycle
 
 ---
 
