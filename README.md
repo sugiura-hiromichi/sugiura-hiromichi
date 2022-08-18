@@ -7,14 +7,16 @@
 - [ ] Verify check sheets <https://www.kyoto-u.ac.jp/ja/education-campus/tuition/jumen>
 - [ ] Ask next season scholarship
 - [ ] README.md arrangement <https://zenn.dev/a_ichi1/articles/64f353e23408b9>
-
+- [ ] Search terminal vi mode
 
 ---
 
 ## Todo Stacks
 
-- [ ] Make template.md for this repository
-- [ ] Reach 70 wpm stable typing performance on monkeytype
+> Bold is Weekly Todo,
+
+- [ ] Make template.md for this repository's diary
+- [ ] **Reach 70 wpm stable typing performance on monkeytype**
 - [ ] Debug br_eng
 - [ ] Make command which switch audio source of mac system [github](https://github.com/deweller/switchaudio-osx/blob/master/audio_switch.h)/[doc](https://developer.apple.com/documentation/coreaudio)
 
