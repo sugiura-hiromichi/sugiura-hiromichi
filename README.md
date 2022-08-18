@@ -8,7 +8,7 @@
 - [x] Set command p to toggle pin tab
 - [ ] Typing
 - [x] Return book to library
-- [ ] Search next season scholarship
+- [x] Search next season scholarship
 
 ---
 
@@ -19,3 +19,4 @@
 - Debug br_eng
 - Setup debug environment(dap-nvim)
 - Verify check sheets <https://www.kyoto-u.ac.jp/ja/education-campus/tuition/jumen>
+- Ask next season scholarship
