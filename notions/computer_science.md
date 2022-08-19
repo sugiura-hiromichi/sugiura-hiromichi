@@ -23,7 +23,7 @@ Rust
 This signifies where to `pub`. 
 
 >**Edition Guide**
->Since 2018 editon, *path* for `pub(in *path*)` must start with `crate`, `super`
+>Since 2018 editon, *path* for `pub(in *path*)` must start with `crate`, `super`.
 
 For example,
 
