@@ -31,9 +31,9 @@ For example,
 pub mod mod1{
 	pub mod mod2{
 		pub mod mod3{}
-    pub(crate) fn visible_within_same_crate(){}
-    pub(super) fn visible_within_mod2(){}
-    pub(in crate::mod1) fn visible_within_mod1(){}
+		pub(crate) fn visible_within_same_crate(){}
+		pub(super) fn visible_within_mod2(){}
+		pub(in crate::mod1) fn visible_within_mod1(){}
 	}
 }
 ```
