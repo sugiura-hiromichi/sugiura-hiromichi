@@ -17,7 +17,7 @@ Rust
 
 ## `pub(path to target)` conjunction
 
->see more [details](https://doc.rust-lang.org/reference/visibility-and-privacy.html#pubin-path-pubcrate-pubsuper-and-pubself)
+>see [official reference](https://doc.rust-lang.org/reference/visibility-and-privacy.html#pubin-path-pubcrate-pubsuper-and-pubself), [related error](https://doc.rust-lang.org/error-index.html)
 
 `pub` has attatchment like `pub(attatchment)`.  
 This signifies where to `pub`. 
