@@ -11,6 +11,9 @@ When you use 'ln -s', arguments have to be **absolute** path. Make sure that not
 ## `date`
 - `date` command prints current time, day, year, day of the week on certain time zone
  
+## Makefile
+
+`Makefile` is make's config file. Make sure that name is not `MakeFile`. This simply unable to work
 
 Rust
 ---
