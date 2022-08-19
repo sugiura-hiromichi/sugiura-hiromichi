@@ -22,7 +22,7 @@ Rust
 `pub` has attatchment like `pub(attatchment)`.  
 This signifies where to `pub`. 
 
->**Edition Guide**
+>**Edition Guide**  
 >Since 2018 editon, *path* for `pub(in *path*)` must start with `crate`, `super`.
 
 For example,
