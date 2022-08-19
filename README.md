@@ -6,7 +6,7 @@
 - [ ] Ask next season scholarship
 - [ ] Search & understand & make example of GitHub Actions
 - [ ] Tweet Enthusiasm of Rust
-- [ ] 
+- [ ] Modify cobalt2's colorgroup
 
 ---
 
