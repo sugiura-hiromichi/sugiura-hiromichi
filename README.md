@@ -1,15 +1,11 @@
 # Today's Tasks & Archievement
 
 - [ ] Solve Ligical Question which is told by friend
-- [x] Clean up My room
-- [x] Tune up My bicycle
 - [ ] Setup debug environment(dap-nvim)
 - [ ] Verify check sheets <https://www.kyoto-u.ac.jp/ja/education-campus/tuition/jumen>
 - [ ] Ask next season scholarship
 - [ ] Search & understand & make example of GitHub Actions
-- [x] Search terminal vi mode
 - [ ] Tweet Enthusiasm of Rust
-- [x] Obtain knowledge that 'MakeFile' is invalid name, must be 'Makefile'
 - [ ] 
 
 ---
