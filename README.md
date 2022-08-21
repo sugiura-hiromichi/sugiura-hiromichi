@@ -9,7 +9,7 @@
 
 ## Todo Stacks
 
-> Bold is Weekly Todo,
+> gPriority order: ***bold italic*** > **bold** > *italic*
 
 - [ ] Solve Ligical Question which is told by friend
 - [ ] Setup debug environment(dap-nvim)
