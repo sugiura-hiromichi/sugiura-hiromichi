@@ -11,3 +11,5 @@
 - 📫 How to reach me: ... here or twitter
 - 😄 Pronouns: ... sh
 - ⚡ Fun fact: ... solo player
+
+:bulb:
