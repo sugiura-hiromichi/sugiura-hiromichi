@@ -1,6 +1,6 @@
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sugiura-hiromichi&count_private=true&show_icons=ture" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugiura-hiromichi&layout=compact&show_icons=true&langs_count=8" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugiura-hiromichi&layout=compact&show_icons=true&langs_count=8&count_private=true" />
 </p>
 
 - 🔭 I’m currently working on ... student
@@ -12,4 +12,4 @@
 - 😄 Pronouns: ... sh
 - ⚡ Fun fact: ... solo player
 
-:bulb:
+:melting_face:
