@@ -4,3 +4,14 @@ language = "jp"
 multilingual = false
 src = "src"
 title = "o_o"
+
+[rust]
+editon = ["2021"]
+
+[output.html]
+mathjax-support = true
+no-section-number = true
+
+[output.html.playground]
+editable = true
+line-numbers = true
