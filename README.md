@@ -1,3 +1,4 @@
+<p>
 <div align="right">
 	<div><img alt="github stats" width="300px"
 			src="https://github-readme-stats.vercel.app/api?username=sugiura-hiromichi&count_private=true&show_icons=ture&theme=transparent" />
@@ -8,17 +9,17 @@
 </div>
 
 <div align="left">
-	<li>a</li>
-	<li>b</li>
+	<ul>
+		<li>🔭 I’m currently working on ... codemingle</li>
+		<li>🌱 I’m currently learning ... rust, scheme</li>
+		<li>👯 I’m looking to collaborate on ... Now Loading...</li>
+		<li>🤔 I’m looking for help with ... who is familiar with system programming</li>
+		<li>💬 Ask me about ... Now Loading...</li>
+		<li>📫 How to reach me: ... Now Loading...</li>
+		<li>😄 Pronouns: ... sh</li>
+		<li>⚡ Fun fact: ... solo player</li>
+	</ul>
 </div>
-
-- 🔭 I’m currently working on ... codemingle
-- 🌱 I’m currently learning ... rust, scheme
-- 👯 I’m looking to collaborate on ... Now Loading...
-- 🤔 I’m looking for help with ... who is familiar with system programming
-- 💬 Ask me about ... Now Loading...
-- 📫 How to reach me: ... Now Loading...
-- 😄 Pronouns: ... sh
-- ⚡ Fun fact: ... solo player
+</p>
 
 :melting_face:
