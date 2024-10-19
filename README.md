@@ -1,6 +1,6 @@
 <p align="left">
-	<div><img alt="github stats" width="350px" src="https://github-readme-stats.vercel.app/api?username=sugiura-hiromichi&count_private=true&show_icons=ture" /></div>
-	<div><img alt="Top Langs" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugiura-hiromichi&layout=compact&show_icons=true&langs_count=12&count_private=true" /></div>
+	<div><img alt="github stats" width="350px" src="https://github-readme-stats.vercel.app/api?username=sugiura-hiromichi&count_private=true&show_icons=ture&theme=transparent" /></div>
+	<div><img alt="Top Langs" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugiura-hiromichi&layout=pie&show_icons=true&langs_count=12&count_private=true&theme=transparent" /></div>
 </p>
 
 - 🔭 I’m currently working on ... codemingle
