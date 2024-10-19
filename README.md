@@ -9,7 +9,7 @@
 	<li>😄 Pronouns: ... sh</li>
 	<li>⚡ Fun fact: ... solo player</li>
 </ul>
-<div align="right">
+<div align="left">
 	<div><img alt="github stats" width="300px"
 			src="https://github-readme-stats.vercel.app/api?username=sugiura-hiromichi&count_private=true&show_icons=ture&theme=transparent" />
 	</div>
