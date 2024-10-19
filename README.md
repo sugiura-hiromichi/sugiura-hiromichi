@@ -6,7 +6,7 @@
 		src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugiura-hiromichi&layout=donut&show_icons=true&langs_count=12&count_private=true&theme=transparent" />
 </div>
 </p>
-<p align="right">
+<div align="right">
 	- 🔭 I’m currently working on ... codemingle
 	- 🌱 I’m currently learning ... rust, scheme
 	- 👯 I’m looking to collaborate on ... Now Loading...
@@ -18,4 +18,4 @@
 
 	:melting_face:
 
-</p>
+</div>
