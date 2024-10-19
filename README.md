@@ -7,6 +7,11 @@
 	</div>
 </div>
 
+<div align="left">
+	<li>a</li>
+	<li>b</li>
+</div>
+
 - 🔭 I’m currently working on ... codemingle
 - 🌱 I’m currently learning ... rust, scheme
 - 👯 I’m looking to collaborate on ... Now Loading...
