@@ -1,8 +1,7 @@
 <p>
 <div align="right"><img alt="github stats" width="300px"
 		src="https://github-readme-stats.vercel.app/api?username=sugiura-hiromichi&count_private=true&show_icons=ture&theme=transparent" />
-</div>
-<div align="right"><img alt="Top Langs" width="300px"
+	<img alt="Top Langs" width="300px"
 		src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugiura-hiromichi&layout=donut&show_icons=true&langs_count=12&count_private=true&theme=transparent" />
 </div>
 <div>
