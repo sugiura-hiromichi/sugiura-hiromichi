@@ -21,3 +21,38 @@
 </div>
 
 :melting_face:
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<style>
+		.container {
+			display: flex;
+			flex-direction: column;
+			/* Align items vertically */
+			justify-content: center;
+			/* Center items vertically */
+			height: 100vh;
+			/* Full viewport height */
+		}
+
+		.box {
+			background-color: lightblue;
+			padding: 20px;
+			margin: 10px;
+			text-align: center;
+		}
+	</style>
+
+</head>
+
+<body>
+	<div class="container">
+		<div class="box">Box 1</div>
+		<div class="box">Box 2</div>
+		<div class="box">Box 3</div>
+	</div>
+</body>
+
+</html>
