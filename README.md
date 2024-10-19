@@ -1,5 +1,5 @@
-<div align="left">
-	<div><img alt="github stats" width="300px"
+<div>
+	<div align="left"><img alt="github stats" width="300px"
 			src="https://github-readme-stats.vercel.app/api?username=sugiura-hiromichi&count_private=true&show_icons=ture&theme=transparent" />
 	</div>
 	<div><img alt="Top Langs" width="300px"
