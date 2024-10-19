@@ -1,4 +1,4 @@
-<p align="left">
+<p align="right">
 <ul>
 	<li>🔭 I’m currently working on ... codemingle</li>
 	<li>🌱 I’m currently learning ... rust, scheme</li>
